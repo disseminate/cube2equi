@@ -8,7 +8,7 @@ Quick and dirty NodeJS tool for converting cubemap textures into equirectangular
 
 `node index.js [options]`
 
-- -i, --input: Input filename
-- -o, --output: Output filename
-- -w, --width: Output width
-- -h, --height: Output height
+- `-i, --input`: Input filename
+- `-o, --output`: Output filename
+- `-w, --width`: Output width
+- `-h, --height`: Output height
